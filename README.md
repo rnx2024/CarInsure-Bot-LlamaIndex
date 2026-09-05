@@ -1,6 +1,6 @@
 # 🚗 CarInsure Bot – AI Insurance Policy Assistant
 
-**CarInsure Bot** is an interactive insurance assistant built with LlamaIndex, Streamlit, and GPT-4o. It provides instant answers to policyholders or inquiring customers by retrieving answers directly from uploaded insurance documents.
+**CarInsure Bot** is an interactive insurance assistant built with LlamaIndex, Streamlit, and OpenAI. It provides instant answers to policyholders or inquiring customers by retrieving answers directly from uploaded insurance documents.
 
 ---
 
